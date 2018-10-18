@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,3 +40,4 @@ namespace Class_20180912
         }
     }
 }
+*/
