@@ -42,4 +42,4 @@ namespace Class_20180912
     }
 }
 
-//수정!
+//Web에서 
