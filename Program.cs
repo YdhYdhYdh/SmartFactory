@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +12,7 @@ namespace Class_20180912
         static void Print(string name, string phone)
         {
             WriteLine($"이름 : {name}, 번호 : {phone}");
+	WriteLine("Hello");
         }
         static void Main(string[] args)
         {
@@ -40,4 +41,9 @@ namespace Class_20180912
         }
     }
 }
+<<<<<<< HEAD
 */
+=======
+
+//수정!
+>>>>>>> 1b85a7676c5c71da959bf806548feb8fbb539d69
