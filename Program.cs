@@ -20,7 +20,7 @@ namespace Class_20180912
                 WriteLine(i + " Hello");
 
             Print(name: "유형민", phone: "010-4489-9371");
-
+			WriteLine("Hello World");
             InitIronMan ArmorSuite = new InitIronMan();
             ArmorSuite.Initialize();
 
@@ -28,7 +28,7 @@ namespace Class_20180912
             IronMan.Initialize();
 
             InitIronMan ArmorSuite2 = new ArmorSuite();
-            ArmorSuite2.Initialize();
+			ArmorSuite2.Initialize();
         }
 
     }
@@ -41,3 +41,7 @@ namespace Class_20180912
         }
     }
 }
+
+
+
+
