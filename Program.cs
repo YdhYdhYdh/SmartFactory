@@ -41,5 +41,3 @@ namespace Class_20180912
         }
     }
 }
-
-//Web에서 
