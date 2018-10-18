@@ -40,4 +40,5 @@ namespace Class_20180912
             Console.WriteLine("Armor Suite");
         }
     }
+	//주석하나정도는
 }
